@@ -1,6 +1,7 @@
 /venv
 /profile
 /src/__pycache__
+/src/test
 
-geckodriver.exe
-geckodriver.log
+chromedriver.exe
+chromedriver.log
