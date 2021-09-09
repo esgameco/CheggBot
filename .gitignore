@@ -1,5 +1,6 @@
 /venv
 /profile
+/src/__pycache__
 
 geckodriver.exe
 geckodriver.log

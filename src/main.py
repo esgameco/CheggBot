@@ -1,6 +1,5 @@
-from selenium import webdriver
+from bot import CheggBot
 
-profile = webdriver.FirefoxProfile('profile')
-driver = webdriver.Firefox()
+bot = CheggBot()
 
-driver.get('http://www.google.com')
+bot.driver.get('https://www.chegg.com/')
